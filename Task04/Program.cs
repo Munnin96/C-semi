@@ -12,7 +12,6 @@ int numberc = Convert.ToInt32(Console.ReadLine());
 
 int max = numbera;
 
-if (numbera > max) max = numbera;
 if (numberb > max) max = numberb;
 if (numberc > max) max = numberc;
 
